@@ -137,4 +137,23 @@ td{
 }
 /* ELEMENTI NELL' ASIDE */
 
+.m-t20{
+    padding-top: 20px;
+}
+
+.arts-inside{
+    padding: 20px;
+    background-color: #E1E1E2;
+}
+
+.p-bt{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
 /* FOOTER */
+footer{
+    background-color: #035367;
+    width: 30%;
+    margin: 30px auto 30px;
+    border: 1px solid #DBDCDC;
+}
