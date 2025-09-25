@@ -14,6 +14,30 @@ code{
   border: 1px solid gray ;
   line-height: 2;
 }
+
+caption{
+    font-weight: 650;
+    font-style: italic;
+}
+
+th{
+    color: white;
+    background-color: #4667C1;
+    padding: 15px;
+    border: 1px solid #DBDCDC;
+}
+
+tr{
+    color: black;
+    background-color: white;
+    padding: 40px;
+    border: 1px solid #DBDCDC;
+    text-align: center;
+}
+
+td{
+    padding: 15px;;
+}
 /* HEADER */
 
 .header-cont{
@@ -78,6 +102,12 @@ code{
 .ul-style{
     list-style-type: disc;
     margin-left: 35px;
+}
+
+.ol-style {
+  list-style-type: decimal;
+  margin-left: 35px;
+  line-height: 2;
 }
 
 /* TABELLE */
