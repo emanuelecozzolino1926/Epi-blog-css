@@ -4,7 +4,16 @@ body{
     background-image: url(../img/sfondo.png);
 }
 
+h2{
+    font-weight: 650;
+    font-size: 30px;
+}
 
+code{
+  background-color: #E1E1E1;
+  border: 1px solid gray ;
+  line-height: 2;
+}
 /* HEADER */
 
 .header-cont{
@@ -24,7 +33,7 @@ body{
     text-align: center;
 }
 
-.sublog-title{
+.font{
   font-family: "Poppins", sans-serif;
   font-style: normal;
 }
@@ -41,9 +50,35 @@ body{
     font-weight: 500;
 }
 
+
+
 /* MAIN */
 
 /* ELEMENTI NEL MAIN - ARTICLE */
+.article-cont{
+    width: 30%;
+    margin: 30px auto 30px;
+    background-color: white;
+    border: 1px solid #DBDCDC;
+}
+
+.p-b20{
+    padding-bottom: 20px;
+}
+
+.author{
+    color: #BAB9B9;
+}
+
+.purple-text{
+    color: #C0879B;
+    font-weight: 500;
+}
+
+.ul-style{
+    list-style-type: disc;
+    margin-left: 35px;
+}
 
 /* TABELLE */
 
