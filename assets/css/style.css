@@ -1,6 +1,45 @@
 /* IMPOSTAZIONI GENERALI */
 
+body{
+    background-image: url(../img/sfondo.png);
+}
+
+
 /* HEADER */
+
+.header-cont{
+  width: 30%;
+  margin: 30px auto 30px;
+  background-color: #3B88A8;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+.p-4{
+    padding: 4px;
+}
+.text-center{
+    text-align: center;
+}
+
+.sublog-title{
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+.text-white{
+    color: white;
+}
+
+.nav-text{
+    text-decoration: none;
+}
+
+.bold{
+    font-weight: 500;
+}
 
 /* MAIN */
 
